@@ -70,6 +70,8 @@ flowchart LR
 
 ## 📸 Screenshots
 
+![League of Legends Analytics Dashboard searching CoreJJ and showing ranked match cards](assets/search.gif)
+
 <img width="3833" height="1820" alt="image" src="https://github.com/user-attachments/assets/01ec8121-3fd3-4b09-be25-089ca8aa7cef" />
 
 
